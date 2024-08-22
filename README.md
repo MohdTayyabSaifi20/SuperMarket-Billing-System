@@ -1,0 +1,1 @@
+A supermarket billing system using C/C++ programming language is a comprehensive business solution utilized by a variety of retailers and other businesses1. It is built to help supermarkets calculate and display bills and serve the customer in a faster and efficient manner
